@@ -5,7 +5,7 @@ import random
 from tkinter import font as tkFont
 import time
 
-
+#Pong Klasse
 class Pong:
     def __init__(self) -> None:
         self.root = tk.Tk()
